@@ -25,8 +25,8 @@ I care about:
 
 ### 🚧 Currently
 
-- 📚 Working through the Git module of the DevOps roadmap (Linux ✅, Networking ✅)
-- 🛠️ Building: NGINX on EC2 served over my own domain
+- ☁️ Working through the AWS module of the DevOps roadmap (Linux ✅, Networking ✅, Git ✅)
+- 🛠️ Building and documenting hands-on AWS labs as I go
 - ✍️ Posting what I learn on LinkedIn
 
 ---
