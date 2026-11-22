@@ -1,54 +1,89 @@
-# 👋 Hi, I'm Qasim
+## 👋 Hi, I'm Qasim
 
-**IT Support → DevOps / Cloud** | Linux • Bash • Git • Networking • AWS • Docker • Terraform
+#### IT Support Engineer → DevOps | AWS • Azure • Linux • Bash • Git • Networking
+*Moving from fixing infrastructure to automating it*
 
-*Learning in public: building and documenting cloud infrastructure, one project at a time.*
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://qasimsabir.co.uk"><img src="https://img.shields.io/badge/Website-qasimsabir.co.uk-111111?style=flat&logo=nginx&logoColor=white" alt="Website"></a>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="AZ-900">
+<!-- Optional: add a profile image to this repo and uncomment -->
+<!--
+<p align="center">
+  <img src="profile-pic.jpg" width="180" alt="Profile image" />
+</p>
+-->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://qasimsabir.co.uk">
+    <img src="https://img.shields.io/badge/Website-qasimsabir.co.uk-orange?logo=cloudflare&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### About Me
+#### About Me
+I work in IT support at a Managed Service Provider, where my day-to-day has grown well beyond first-line: **network and DNS troubleshooting, firewall and DHCP changes, Azure / Entra / Intune administration, and PowerShell scripting**. I've also helped clients move from on-prem to the cloud (file servers to SharePoint, Active Directory to Entra ID).
 
-I'm a helpdesk engineer at an MSP moving into DevOps and cloud engineering. My day job is Entra ID, Intune, PowerShell and network troubleshooting; on the side I'm working through a full DevOps roadmap and building real projects on AWS.
+Seeing the same problems come up again and again made me want to work on the other side, building infrastructure that's automated, repeatable and doesn't break at 3am.
 
-I care about:
-- infrastructure that's documented well enough for someone else to run it
-- automating the repetitive stuff away
-- understanding *why* things work, not just copying commands
+So I'm now working through a hands-on **DevOps roadmap with [CoderCo](https://coderco.io)** and documenting everything I build here.
 
----
-
-### 🚧 Currently
-
-- ☁️ Working through the AWS module of the DevOps roadmap (Linux ✅, Networking ✅, Git ✅)
-- 🛠️ Building and documenting hands-on AWS labs as I go
-- ✍️ Posting what I learn on LinkedIn
+- 🎓 BSc (Hons) Computer Science, Brunel University
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 📝 Learning in public on LinkedIn
 
 ---
 
-### Featured Projects
+#### Roadmap Progress
 
-- **[NGINX on AWS EC2 with a Custom Domain](https://github.com/YOUR-USERNAME/REPO-NAME)**
-  Ubuntu EC2 (eu-west-2) running NGINX, served on `qasimsabir.co.uk` through Cloudflare DNS. Includes an install script and step-by-step docs.
-
-- **[OverTheWire Bandit Write-ups](https://github.com/YOUR-USERNAME/REPO-NAME)**
-  My notes and approach for each Bandit level, covering Linux fundamentals, permissions, and SSH.
-
-- **Coming soon: Containerised app on AWS ECS (Terraform + GitHub Actions)**
+| Module | Status |
+|---|---|
+| Linux Fundamentals | ✅ Done |
+| Bash Scripting | ✅ Done |
+| Git | ✅ Done |
+| Networking Fundamentals | ✅ Done |
+| Docker | ✅ Done |
+| AWS | 🔄 In progress |
+| Terraform | ⏳ |
+| CI/CD (GitHub Actions) | ⏳ |
+| Kubernetes | ⏳ |
+| Capstone: ECS project | ⏳ |
 
 ---
 
-### Tech Stack
+#### Featured Projects
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,powershell,git,github,nginx,docker,terraform,githubactions&theme=dark)](https://skillicons.dev)
+- [**Turnstile - Multi-Container Visit Counter**](https://github.com/Qasim980/turnstile)
+  A visit counter built from three containers managed with **Docker Compose**. **NGINX** acts as a reverse proxy and forwards each request to a **Flask** app, which stores the visit count in **Redis**. Each page shows your visitor number and which container served you.
+
+- [**NGINX on AWS EC2 with a Custom Domain**](https://github.com/YOUR-USERNAME/YOUR-REPO)
+  Deployed an NGINX web server on an **Ubuntu EC2 instance (eu-west-2)** and served it over my own domain using **Cloudflare DNS**. Includes an install script and a write-up of how a request travels from the browser, through DNS, to the server.
+
+- 🚧 *More coming as I work through the roadmap, with AWS, Terraform, CI/CD, and a full ECS capstone next.*
 
 ---
 
-### 📊 GitHub Stats
+#### Tech Stack
 
-![Qasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=default)
+**Using now**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,bash,powershell,git,github,nginx,cloudflare" />
+</p>
+
+**Learning next**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,kubernetes" />
+</p>
+
+---
+
+#### Let's Connect
+I'm open to **junior DevOps, cloud, and platform roles**. If you're hiring or just want to talk infrastructure, reach out.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
