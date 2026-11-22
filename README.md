@@ -58,7 +58,7 @@ So I'm now working through a hands-on **DevOps roadmap with [CoderCo](https://co
 - [**Turnstile - Multi-Container Visit Counter**](https://github.com/Qasim980/turnstile)
   A visit counter built from three containers managed with **Docker Compose**. **NGINX** acts as a reverse proxy and forwards each request to a **Flask** app, which stores the visit count in **Redis**. Each page shows your visitor number and which container served you.
 
-- [**NGINX on AWS EC2 with a Custom Domain**](https://github.com/YOUR-USERNAME/YOUR-REPO)
+- [**NGINX on AWS EC2 with a Custom Domain**](https://github.com/Qasim980/devops-learning/tree/main/04-networking/nginx-ec2-cloudflare)
   Deployed an NGINX web server on an **Ubuntu EC2 instance (eu-west-2)** and served it over my own domain using **Cloudflare DNS**. Includes an install script and a write-up of how a request travels from the browser, through DNS, to the server.
 
 - 🚧 *More coming as I work through the roadmap, with AWS, Terraform, CI/CD, and a full ECS capstone next.*
