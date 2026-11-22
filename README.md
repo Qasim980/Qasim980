@@ -69,7 +69,7 @@ So I'm now working through a hands-on **DevOps roadmap with [CoderCo](https://co
 
 **Using now**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,bash,powershell,git,github,nginx,cloudflare, docker" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,bash,powershell,git,github,nginx,cloudflare" />
 </p>
 
 **Learning next**
